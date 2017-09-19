@@ -7,7 +7,7 @@
 <title>Toyota Trucks</title>
 </head>
 <body>
-	<h2>Welcome to USt Toyotaa Vehicles</h2>
+	<h2>Welcome to USt Toyota Vehicles</h2>
 	<h2>Select and pick and get a 50% discount if you will pass
 		ITELEC4C</h2>
 	<fieldset>
